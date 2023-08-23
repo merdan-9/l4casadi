@@ -1,5 +1,6 @@
 ![L4CasADi CI](https://github.com/Tim-Salzmann/l4casadi/actions/workflows/ci.yaml/badge.svg)
 
+
 # Learning 4 CasADi Framework
 
 L4CasADi enables using PyTorch models and functions in a CasADi graph while supporting CasADis code generation 
